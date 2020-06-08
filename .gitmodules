@@ -1,0 +1,3 @@
+[submodule "app/vserv-tcpip"]
+	path = app/vserv-tcpip
+	url = https://github.com/djdisodo/vserv-tcpip.git
